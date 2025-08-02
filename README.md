@@ -2,7 +2,7 @@
 
 Juego interactivo para sortear amigos secretos, desarrollado en **HTML, CSS y JavaScript** como parte del Challenge de Alura Latam.
 
-![Vista previa del proyecto](assets/preview.png)
+![Vista previa del proyecto](img.png)
 
 ---
 
@@ -24,4 +24,4 @@ Juego interactivo para sortear amigos secretos, desarrollado en **HTML, CSS y Ja
     └── icono.png
 
 
-![Vista previa del proyecto](Captura de pantalla 2025-08-01 221221.png)
+![Vista previa del proyecto](img.png)
