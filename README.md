@@ -1,10 +1,13 @@
 # 🎁 Amigo Secreto
 
-Juego interactivo para sortear amigos secretos, desarrollado en **HTML, CSS y JavaScript** como parte del Challenge de Alura Latam.
+Juego interactivo para **sortear amigos secretos**, desarrollado en **HTML, CSS y JavaScript** como parte del **Challenge de Alura Latam**.
 
-La implementación visual de la página fue ofrecida por Alura Latam desde el HTML hasta el CSS, la parte lógica del amigo secreto fue implementada por este humilde servidor: Sebas Gómez.
+La implementación visual de la página (HTML y CSS) fue proporcionada por **Alura Latam**, mientras que la **lógica del juego** fue implementada por este humilde servidor: **Sebas Gómez**.
 
-Buscamos generar arrays para los amigos donde producimos funciones para la modularidad del código donde se utiliza Math.random para seleccionar una persona del juego al azar.
+La lógica consiste en:
+- Generar un **array** donde se almacenan los amigos ingresados.
+- Utilizar **funciones modulares** para agregar amigos, actualizar la lista y realizar el sorteo.
+- Emplear **Math.random()** para seleccionar de forma aleatoria al **amigo secreto**.
 
 ![Vista previa del proyecto](img.png)
 
@@ -13,12 +16,9 @@ Buscamos generar arrays para los amigos donde producimos funciones para la modul
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
+
    ```bash
    git clone https://github.com/TU_USUARIO/amigo-secreto.git
-
-
-
-## Implementación de carpetas
 
 .
 ├── index.html
@@ -29,4 +29,3 @@ Buscamos generar arrays para los amigos donde producimos funciones para la modul
     ├── preview.png
     ├── amigo-secreto.png
     └── icono.png
-
