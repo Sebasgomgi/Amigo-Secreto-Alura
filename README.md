@@ -18,7 +18,7 @@ Buscamos generar arrays para los amigos donde producimos funciones para la modul
 
 
 
-##Implementación de carpetas
+## Implementación de carpetas
 .
 ├── index.html
 ├── style.css
