@@ -27,5 +27,3 @@ Buscamos generar arrays para los amigos donde producimos funciones para la modul
     ├── amigo-secreto.png
     └── icono.png
 
-
-![Vista previa del proyecto](img.png)
