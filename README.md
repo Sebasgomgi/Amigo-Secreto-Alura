@@ -18,7 +18,7 @@ La lógica consiste en:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/amigo-secreto.git```
+   git clone https://github.com/TU_USUARIO/amigo-secreto.git
 
 .
 ├── index.html
